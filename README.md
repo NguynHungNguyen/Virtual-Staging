@@ -46,4 +46,4 @@ The main goal of Virtual Staging is to generate interior designs for empty bedro
 
 ## Acknowledgments
 
-Contributions and support from the open-source AI community.
+Contributions and support from stablediffusion.vn and the open-source AI community
